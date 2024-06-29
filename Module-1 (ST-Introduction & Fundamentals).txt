@@ -1,0 +1,121 @@
+Module-1 (ST-Introduction & Fundamentals)
+
+1. What is SDLC.
+-> The Software developement Life Cycle(SDLC) is a Structured Process that enables the production
+   of high quality, low-cost software in the sortest possible production time. 
+   - There are 7 types of SDLC.
+
+2. What is software testing?
+-> Software Testing is a process used to identify the correctness,completeness, and quality of developed
+   computer software.
+
+3. What is agile methodology?
+->  Agile SDLC model is a combination of iterative and incremental process models with focus on process
+    adaptability and customer satisfaction by rapid delivery of working software product. 
+
+4. What is SRS.
+-> A software requirements specification is a document that describes what the software will do and how it
+   will be expected to perform.
+
+5. What is oops.
+->  Object-oriented programming is a programming model based on the concept of objects which can
+    contain data in the form of fields and code in the form of procedures. 
+
+6. Write Basic Concepts of oops.
+->  Object
+    Class
+    Encapsulation
+    Inheritance
+    Polymorphism
+    Abstraction 
+
+7. What is object.
+-> A object is a Smallest entity or unit of any application or system.
+
+8. What is class.
+-> class is an extensible program-code-template for creating objects, providing initial values for state and
+implementations of behavior. 
+
+9. What is encapsulation.
+-> Encapsulation is the practice of including in an object everything
+   it needs hidden from other objects. 
+
+10. What is inheritance.
+->  Inheritance means that one class inherits the characteristics of
+    another class. 
+11. What is polymorphism.
+-> Polymorphism means having many forms. It allows different objects to respond to the same message
+   in different ways the response specific to the type of the object.
+
+12. Write SDLC phases with basic introduction.
+-> SDLC is a structure imposed on the development of a software product that defines the process for
+   planning, implementation, testing,documentation,deployment, and ongoing maintenance and support.
+   - There are Six phases in SDLC :
+   (1) Requirements : Establish Customer Needs
+   (2) Analysis : Model And Specify the requirements
+   (3) Design : Model And Specify a Solution
+   (4) Implementation : Construct a Solution In Software
+   (5) Testing : Validate the solution against the requirements
+   (6) Maintenance : Repair defects and adapt the solution to the new requirements 
+
+13. Explain Phases of the waterfall model.
+-> The Waterfall Model has Seven phases which are:
+   1. Requirements: The first phase involves gathering requirements from stakeholders.
+   2.Analysis: analyzing them to understand the scope and objectives of the project.
+   3. Design: Once the requirements are understood, the design phase begins. This involves creating a
+              detailed design document that outlines the software architecture, user interface, and system components.
+   4. Coding: The Development phase include implementation involves coding the software based on the
+              design specifications. This phase also includes unit testing to ensure that each component of the software
+              is working as expected.
+   5. Testing: In the testing phase, the software is tested as a whole to ensure that it meets the
+               requirements and is free from defects.
+   6. Deployment: Once the software has been tested and approved, it is deployed to the production
+                  environment.
+   7. Maintenance: The final phase of the Waterfall Model is maintenance, which involves fixing any
+                   issues that arise after the software has been deployed and ensuring that it continues to meet the
+                   requirements over time. 
+
+14. Write phases of spiral model.
+-> The Spiral Model is a risk-driven model, meaning that the focus is on managing risk through multiple
+   iterations of the software development process. It consists of the following phases:
+
+	1.Planning: The first phase of the Spiral Model is the planning phase, where the scope of the project is
+	            determined and a plan is created for the next iteration of the spiral.
+	2.Risk Analysis: In the risk analysis phase, the risks associated with the project are identified and evaluated.
+	3.Engineering: In the engineering phase, the software is developed based on the requirements gathered
+	               in the previous iteration.
+	4.Evaluation: In the evaluation phase, the software is evaluated to determine if it meets the customer’s
+	              requirements and if it is of high quality.
+	5.Planning: The next iteration of the spiral begins with a new planning phase, based on the results of the evaluation.
+ 
+15. Write 7 key principles.
+-> 1.Testing shows presence of Defects
+   2. Exhaustive Testing is Impossible!
+   3. Early Testing
+   4. Defect Clustering
+   5. The Pesticide Paradox
+   6. Testing is Context Dependent
+   7. Absence of Errors Fallacy
+
+16. Explain working methodology of agile model and also write pros and cons.
+-> Agile SDLC model is a combination of iterative and incremental
+   process models with focus on process adaptability and customer satisfaction by rapid delivery of working software product.
+    - Agile Methods break the product into small incremental builds.
+    - These builds are provided in iterations. 
+
+Pros:-
+- It is a very realistic approach to software development
+- Promotes teamwork and cross training.
+- Functionality can be developed rapidly and demonstrated.
+- Resource requirements are minimum.
+- Suitable for fixed or changing requirements 
+
+Cons :-
+- Not suitable for handling complex dependencies.
+- More risk of sustainability, maintainability and extensibility.
+- An overall plan, an agile leader and agile PM practice is a must without
+  which it will not work.
+- Strict delivery management dictates the scope, functionality to be
+  delivered, and adjustments to meet the deadlines.
+- Depends heavily on customer interaction, so if customer is not clear, team can be driven in the wrong
+  direction.
